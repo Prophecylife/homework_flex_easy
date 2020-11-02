@@ -43,6 +43,7 @@ body {
     min-height: 440px;
     cursor: pointer;
     transition: padding ease-in-out 0.5s;
+    border-radius: 20px;
 }
 
 h1 {
